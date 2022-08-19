@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ServiceStart3(WithSeparateThreadHandlerForBestUseProductionApp)</string>
+    <string name="clear">Clear</string>
+    <string name="run_code">Run Code</string>
+</resources>
